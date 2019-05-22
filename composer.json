@@ -1,0 +1,20 @@
+{
+    "name": "rb28dett/permissions",
+    "description": "Permissions module for rb28dett",
+    "require": {
+	"rb28dett/rb28dett": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+{
+            "name": "Stf Kolev",
+            "email": "inkyzfx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RB28DETT\\Permissions\\": "./src"
+        }
+    },
+    "minimum-stability": "dev"
+}
